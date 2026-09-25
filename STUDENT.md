@@ -4,7 +4,7 @@ Fill in every field below before your first commit. This file is how instructors
 
 ---
 
-| Field | MECHANICAL ENGINEERING |
+| Field | Your Answer |
 |-------|-------------|
 | Full Name | NWOKEDI THANKGOD SOPURUCHUKWU |
 | GitHub Username | TG090 |
